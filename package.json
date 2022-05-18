@@ -1,0 +1,14 @@
+{
+  "name": "Planets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Matheusmottaa/Planets.git",
+  "author": "Matheus Mota",
+  "license": "MIT",
+  "scripts": { 
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
